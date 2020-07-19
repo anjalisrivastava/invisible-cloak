@@ -21,6 +21,5 @@ After you run this, you will be presented with a a few camera views. Go to the o
 
 5) Move away from the webcam for a few seconds and come back holding the cloak. Congratulations!! You are now a wizard!!
 
-> PS. Look at the video for an example.
 
 
